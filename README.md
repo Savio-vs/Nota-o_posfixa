@@ -1,2 +1,2 @@
-# Nota-o_posfixa
+# Notação_posfixa
 Atividade de estrutura de dados
